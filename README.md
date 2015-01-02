@@ -12,3 +12,14 @@ The adapter supports from Rivets JS version >= 0.7.x
 * rv-value="model.address.street.number"
 * rv-text="model.obj3.obj4"
 ```
+
+##Dependencies
+
+* [Backbone.js] (http://backbonejs.org/)
+* [rivets.js] (rivetsjs.com)
+
+##Installation
+
+```
+ npm install backbone-rivets-adapter
+```
