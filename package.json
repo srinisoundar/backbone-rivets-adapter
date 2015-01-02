@@ -1,0 +1,18 @@
+{
+  "name": "backbone-rivets-adapter",
+  "description": "Generic rivets '.' adapter for backbone collections, models and javascript objects. Supports nested models, collections and objects.",
+  "version": "1.0",
+  "author": "Srinivasan Soundararajan",
+  "url": "https://github.com/srinisoundar/backbone-rivets-adapter",
+  "main": "backbone-rivets-adapter.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/srinisoundar/backbone-rivets-adapter/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srinisoundar/backbone-rivets-adapter.git"
+  }
+}
