@@ -7,7 +7,6 @@ Generic rivets '.' adapter for backbone collections, models and javascript objec
 The adapter supports from Rivets JS version >= 0.7.x
 
 ##Usage
-
 ```
 * rv-each-model="obj1.obj2.collection"
 * rv-value="model.address.street.number"
